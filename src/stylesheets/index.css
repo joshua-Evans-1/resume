@@ -1,0 +1,43 @@
+html, body {
+    background-color:black;
+    height: 100%;
+}
+
+#page {
+    background-color: black;
+    max-width: 80%;
+    min-height: 100%;
+    margin: auto;
+    color: white;
+}
+
+.centered {
+    text-align: center;
+}
+
+header {
+    width: 100%;
+    height: fit-content;
+}
+
+#grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+#expirience {
+
+}
+
+#skills {
+    
+
+}
+
+#tech-skills {
+    
+}
+
+#education {
+
+}
